@@ -1,0 +1,28 @@
+10/2/2023 -$24.13 L Out to eat Reters
+10/2/2023 -$16.91 E purchase Amazon.com
+10/2/2023 -$2.25 E Snack at work
+10/4/2023 -$92.25 E Groceries Sams
+10/4/2023 -$9.71 E Groceries Lidl
+10/4/2023 -$23.00 E Laundry card 
+10/4/2023 -$2.50 E atm withdrawal charge
+10/5/2023 -$36.54 E Gas
+10/6/2023 $585.06 E Amazon Pay
+10/10/2023 -$31.79 L Steam Game
+10/10/2023 -$13.33 E Goceries Trader Joe's
+10/12/2023 -$33.96 E Utilities 
+10/13/2023 $563.36 E Amazon Pay
+10/13/2023 -$46.53 E Gas
+10/18/2023 -$10.00 E Renters insurance
+10/18/2023 -$59.99 E Xfinity internet
+10/19/2023 -$35.35 E Gas
+10/20/2023 $589.87 E Amazon Pay
+10/25/2023 -$994.45 E Rent
+10/26/2023 -$43.45 E Gas Royal Farms
+10/27/2023 $611.33 E Amazon Pay
+10/31/2023 -$501.24 E pay off credit card
+10/31/2023 -$42.39 E Eset security pc
+10/31/2023 -$20.09 E car light 
+10/31/2023 -$63.66 E Sams club groceries
+10/31/2023 -$15.75 E pay off credit card
+-e
+$2349.62 -$2119.27 $230.35

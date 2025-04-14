@@ -1,0 +1,24 @@
+4/3/2023 -$61.8 L purchase from Amazon.com
+4/3/2023 -$1 L snack at work
+4/3/2023 -$1.25 L Snack at work
+4/3/2023 -$1.25 L Snack at work
+4/3/2023 -$6.99 E pay credit
+4/4/2023 -$49.68 E Gas
+4/5/2023 -$42.39 L game on steam
+4/6/2023 -$68.55 L dinner at cafe spice with jess
+4/6/2023 -$46.52 E groceries at sams
+4/7/2023 -$9.57 E groceries at lidle
+4/7/2023 $611.44 E amazon pay
+4/10/2023 -$1.06 L snack at work
+4/10/2023 -$18.01 L Princess Mononoke purchase utube
+4/12/2023 -$52.96 E utilities
+4/14/2023 $585.4 E amazon pay
+4/18/2023 -$59.99 E xfinity internet
+4/18/2023 -$2 E abcserviceofmaryl (unkown)
+4/19/2023 -$10 E renters insurance
+4/19/2023 -$587 E state income tax
+4/19/2023 -$1622 E fedral taxes
+4/21/2023 $462.22 E amazon pay
+4/28/2023 $299.27 E amazon pay
+-e
+$1958.33 -$2642.02 -$683.69

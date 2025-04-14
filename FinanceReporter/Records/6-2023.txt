@@ -1,0 +1,27 @@
+6/1/2023 -$91.28 E groceries sams
+6/1/2023 -$1.65 L snack at work
+6/1/2023 -$393.95 E pay off credit card
+6/2/2023 $607.35 E amazon work
+6/2/2023 -$50.72 E gas
+6/2/2023 -$12 E purchased transcript
+6/2/2023 -$50 E birthday present for scott
+6/5/2023 -$21.2 L upgrade diablo 4 package
+6/5/2023 -$5 L lennys deli
+6/5/2023 -$4 L 7-eleven
+6/7/2023 -$95.39 L diablo 4 for Jessica
+6/9/2023 $680.93 E amazon work
+6/12/2023 -$28.41 E apartment utilities
+6/16/2023 $454.91 E amazon work
+6/20/2023 -$59.99 E internet
+6/20/2023 -$10 E renters insurance
+6/23/2023 $320.75 E amazon work
+6/27/2023 -$994.45 E next months rent
+6/29/2023 -$23.99 E groceries
+6/29/2023 -$3.09 E groceries
+6/29/2023 -$684.52 E pay off credit card
+6/29/2023 -$5.88 L cell phone case for jessica
+6/30/2023 $446.13 E amazon work
+6/30/2023 -$15.84 L drinks at mall
+6/30/2023 -$30.05 L lunch at mall for me and jess
+-e
+$2510.07 -$2581.41 -$71.34

@@ -1,0 +1,18 @@
+9/1/2023 $592.82 E Amazon pay
+9/1/2023 -$53.24 E Gas Royal Farms
+9/5/2023 -$21.19 L Wayfinder on Steam
+9/8/2023 $564.73 E Amazon Pay
+9/11/2023 -$15.61 E Utilities BGE
+9/15/2023 $834.56 E Amazon Pay
+9/15/2023 -$44.93 E Gas Royal Farms
+9/18/2023 -$59.99 E Xfinity Internet
+9/20/2023 -$10.00 E Renters insurance
+9/21/2023 $593.83 E Amazon Pay
+9/22/2023 -$994.45 E Rent
+9/22/2023 -$47.76 E Gas Royal Farms
+9/28/2023 -$10.68 E Groceries Sams
+9/29/2023 $586.52 E Amazon Pay
+9/29/2023 -$489.92 E Pay off credit card
+9/29/2023 -$40.28 E Gas
+-e
+$3172.46 -$1788.05 $1384.41

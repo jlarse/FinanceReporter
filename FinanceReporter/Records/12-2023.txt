@@ -1,0 +1,25 @@
+12/1/2023 $527.82 E amazon pay
+12/1/2023 -$20.00 L donation ST. Jude
+12/4/2023 -$1.00 L snack work
+12/4/2023 -$1.35 L snack work
+12/4/2023 -$1.10 L snack work
+12/4/2023 -$1.25 L snack work
+12/4/2023 -$2.25 L snack work
+12/4/2023 -$1.25 L snack work
+12/5/2023 -$1.25 L snack work
+12/7/2023 -$31.43 E gas royal farms
+12/8/2023 $646.60 E amazon pay
+12/11/2023 -$31.08 E utilities gas and electric
+12/13/2023 -$10.00 E pillpack charge
+12/14/2023 -$49.89 E royal farms gas
+12/15/2023 $652.81 E amazon pay
+12/18/2023 -$59.99 E intenet xfinity
+12/20/2023 -$10.00 E renters insurance
+12/22/2023 $659.72 E amazon pay
+12/22/2023 -$29.75 E royal farms gas
+12/26/2023 $30.00 G mobile deposit
+12/26/2023 -$994.45 E rent rossbrook
+12/28/2023 -$9.53 E groceries lidle
+12/29/2023 $430.15 E amazon pay 
+-e
+$2947.10 -$1255.57 $1691.53

@@ -1,0 +1,31 @@
+1/2/2024 -$35.60 E groceries wegmans
+1/2/2024 -$752.02 E pay off credit card
+1/2/2024 -$23.68 E pay off credit card
+1/2/2024 -$5.78 E groceries trader joes
+1/2/2024 -$98.41 E groceries sams club
+1/5/2024 -$9.96 E omaha steaks 
+1/8/2024 -$28.09 E royal farms gas
+1/9/2024 -$65.78 E utilities gas and electric
+1/12/2024 $514.46 E amazon pay
+1/18/2024 -$10.00 E renters insurance 
+1/18/2024 -$59.99 E xfinity internet
+1/19/2024 $397.01 E amazon pay
+1/19/2024 -$45.77 E royal farms gas
+1/26/2024 $850.84 E amazon pay
+1/26/2024 -$994.45 E rent rossbrook
+1/26/2024 -$35.49 E gas royal farms
+1/29/2024 -$26.95 E additional rent expense
+1/29/2024 -$1.60 L snack at work
+1/29/2024 -$2.10 L snack at work
+1/29/2024 -$1.50 L snack at work
+1/29/2024 -$1.50 L snack at work
+1/29/2024 -$703.69 E pay off credit card
+1/30/2024 $100.00 E sell treadmill
+1/30/2024 -$10.47 E groceries trader joes
+1/30/2024 -$14.60 E school supplies
+1/31/2024 -$2.10 L snack at work
+1/31/2024 -$19.00 E fish oil amazon
+1/31/2024 -$12.91 E groceries wegmans
+1/31/2024 -$91.25 E groceries sams club
+-e
+$1862.31 -$3052.69 -$1190.38
